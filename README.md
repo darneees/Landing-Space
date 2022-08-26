@@ -31,7 +31,7 @@ Sobre astronomia e espaço, que é uma das minhas paixões, com uma paleta de co
 
 ## Deployed
 
-https://darneees.github.io/Landing-Space/
+
 
 <h3 align="center">
   
