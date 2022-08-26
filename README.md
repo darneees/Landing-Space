@@ -29,7 +29,7 @@ Sobre astronomia e espaço, que é uma das minhas paixões, com uma paleta de co
 
 :white_check_mark:  https://undraw.co/illustrations
 
-## Deployd
+## Deployed
 
 https://darneees.github.io/Landing-Space/
 
