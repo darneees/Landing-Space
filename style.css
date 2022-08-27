@@ -45,14 +45,14 @@ body {
     background: #1d3557;
     color: #cad2c5;
 }
-.container{
+#container{
     height: 380px;
     background: #14213d;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.container2 {
+#container2 {
     height: 380px;
     background: #1d3557;
     display: flex;
@@ -104,7 +104,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
 }
-.mainFt {
+#mainFt {
     display: flex;
     align-items: center;
 }
@@ -142,7 +142,7 @@ body {
     }
 }
 @media (max-width: 992px) {
-    .container , .container2 , .container3 {
+    #container , #container2 , .container3 {
         flex-direction: column;
 		height: auto;
         padding: 20px;
@@ -150,7 +150,7 @@ body {
     .imgBx img , .imgBx2 img ,.imgBx3 img {
         max-width: 370px;
     }
-    .container .container-txt , .container2 .container-txt2 {
+    #container .container-txt , #container2 .container-txt2 {
         max-width: 100%;
         padding: 10px;
         text-align: center;
