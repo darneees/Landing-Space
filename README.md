@@ -35,6 +35,6 @@ Sobre astronomia e espaço, que é uma das minhas paixões, com uma paleta de co
 
 <h3 align="center">
   
-  :construction: PROJETO EM FINALIZADO :construction:
+  :construction: PROJETO FINALIZADO :construction:
   
 </h3>
